@@ -148,7 +148,7 @@ p {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url(/images/banner-bg.webp);
+    background-image: url(https://safdar1313.github.io/Landing-Pages-template/images/banner-bg.webp);
     &::after {
         content: '';
         background-color: #000000;
@@ -240,3 +240,4 @@ p {
     }
 
 }
+
