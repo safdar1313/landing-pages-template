@@ -86,7 +86,7 @@ p {
 .banner-section {
     background-position: center;
     background-size: cover;
-    background-image: url(/images/banner-bg.webp);
+    background-image: url(https://safdar1313.github.io/Landing-Pages-template/images/banner-bg.webp);
     .banner-content{
         z-index: 5;
         position: relative;
@@ -238,4 +238,5 @@ p {
     img {
         max-height: 280px !important;
     }
+
 }
