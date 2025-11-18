@@ -186,13 +186,13 @@ p {
 /* footer starts here */
 .footer{
     .quick-links{
-        ul li{
+        ul{
+            li{
             transition: 0.6s;
             &:hover{
                 transform: translateX(10px);
                 transition: 0.3s;
-            }
-        }
+            
     }
 }
 
@@ -240,6 +240,7 @@ p {
     }
 
 }
+
 
 
 
